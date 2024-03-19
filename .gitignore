@@ -20,3 +20,4 @@ env/
 *.log
 *.swp
 *.swo
+prompts/__main__.py
